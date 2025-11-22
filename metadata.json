@@ -1,0 +1,5 @@
+{
+  "name": "AERO-12 Smart Home Interface",
+  "description": "A futuristic, sci-fi inspired smart home dashboard using React Three Fiber for holographic visualization and Gemini API for system intelligence.",
+  "requestFramePermissions": []
+}
